@@ -14,9 +14,9 @@ Driven by a quest to navigate the **Data Engineer** job market more effectively,
 
 ### ❓ Key Questions
 
-1️⃣ What are the **top-paying** data analyst jobs?  
+1️⃣ What are the **top-paying** data engineer jobs?  
 2️⃣ What **skills** are required for these top-paying jobs?  
-3️⃣ What **skills** are most in demand for data analysts?  
+3️⃣ What **skills** are most in demand for data engineer?  
 4️⃣ Which **skills** are associated with higher salaries?  
 5️⃣ What are the **most optimal skills** to learn?  
 
