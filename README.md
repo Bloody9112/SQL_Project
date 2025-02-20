@@ -23,7 +23,7 @@ Driven by a quest to navigate the **Data Engineer** job market more effectively,
 ## 🛠 Tools Used  
 
 - **SQL** – for querying job market data  
-- **PostgreSQL** – as the database managment system for storing and analyzing job postings
+- **PostgreSQL** – as the database management system for storing and analyzing job postings
 - **VS Code** – for writing and debugging SQL queries 
 - **Git & GitHub** – for version control and collaboration
 - **ChatGPT** – for insights, query optimization, and analysis 
